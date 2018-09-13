@@ -1,6 +1,3 @@
-[all:vars]
-ansible-python-interpreter=/usr/bin/python3
-
 [sea]
 acme-sea-rtr1
 acme-sea-asa1
